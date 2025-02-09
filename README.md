@@ -3,7 +3,7 @@
 ## 📌 About  
 **Weather-Forecast-Scraper** is a Python script that scrapes weather forecast data for a given location. It fetches real-time weather details and presents them in a structured format.
   
-If you want to scrape weather data for a specific location, the output may look like this:  
+If you want to scrape weather data for a specific location:  
 ![Weather Forecast Example](https://github.com/user-attachments/assets/2ffc132a-704f-489a-be87-c795fbe1e6e1)
 
 ## 🚀 Features  
