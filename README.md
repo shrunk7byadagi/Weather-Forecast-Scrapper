@@ -34,6 +34,7 @@ This project is built using the following technologies:
 | **🐍 Python**    | Core programming language used    |
 | **🌐 Requests**  | Fetches HTML content from the web |
 | **🍲 BeautifulSoup** | Parses HTML and extracts data |
+| **🐼 Pandas** | For creating dataframes |
 
 
 ## Pandas DataFrame looks as following:
