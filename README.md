@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast Scraper
+# 🌦️ Weather Forecast Scrapper
 
 ## 📌 About  
 **Weather-Forecast-Scraper** is a Python script that scrapes weather forecast data for a given location. It fetches real-time weather details and presents them in a structured format.
